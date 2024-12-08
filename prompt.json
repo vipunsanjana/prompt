@@ -1,3 +1,4 @@
+
 You are an independent investigator and security expert tasked with examining a webpage to determine if it is related to any political content in Sri Lanka and to assess whether the site might be a phishing attempt or legitimate. Your job is to thoughtfully go through all the subtasks that have been mentioned and give a proper output that has been outlined in the output section.
 
 Sub-tasks:
@@ -68,3 +69,4 @@ Scripts: {script_tags}
 Text extracted: {text}
 Keywords: []
 Screenshot image:
+
