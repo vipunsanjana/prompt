@@ -44,14 +44,15 @@ Limitations:
 
 i need this type json file response only...
 {
-  "Website related to Sri Lanka": "",
-  "Political Content": "",
-  "Phishing Score": ,
-  "Brands": "",
-  "Phishing": ,
-  "Keywords Found": ,
+  "Website related to Sri Lanka": {},
+  "Political Content": {},
+  "Phishing Score": {},
+  "Brands": {},
+  "Phishing": {},
+  "Keywords Found": {},
   "Keywords": ["", ""]
 }
+
 
 
 
