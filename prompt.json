@@ -42,16 +42,33 @@ Keywords Found: int (Count of keyword hits from the list)
 Keywords: str (List of keywords found during the analysis)
 Limitations:
 
-i need this type json file response only...
-{
-  "Website related to Sri Lanka": {},
-  "Political Content": {},
-  "Phishing Score": {},
-  "Brands": {},
-  "Phishing": {},
-  "Keywords Found": {},
-  "Keywords": ["", ""]
-}
+Input data item “Scripts and Redirections” are from a scraped scripts and redirections from the web application’s original HTML.
+Examples of Social Engineering Techniques:
+
+Account Problem Alert: User is told their account has a problem and needs verification.
+Suspicious Activity Notification: User is alerted to unusual activity on their account.
+Payment Failure Notice: User is informed that a payment didn't go through and needs updating.
+Invoice Due Reminder: User receives an invoice or payment request, leading to a fake page.
+Tax Refund Offer: User is promised a tax refund and asked for banking details.
+Subscription Renewal: User is prompted to renew a subscription that's about to expire.
+Password Expiration Warning: User is told their password is expiring and needs resetting.
+Unclaimed Prize: User is notified of a prize win and asked to claim it.
+Survey Invitation: User is invited to take a survey in exchange for a reward.
+Social Media Account Warning: User is warned of an issue with their social media account.
+Displaying fake security warnings
+
+Additional Checks:
+Cross-reference brand names and URLs with known safe domains.
+Analyze URL patterns for common phishing structures.
+
+Input Data:
+URL: {url}
+Redirections: {a_tags}
+Scripts: {script_tags}
+Text extracted: {text}
+Keywords: []
+Screenshot image:
+
 
 
 
