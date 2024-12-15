@@ -24,9 +24,9 @@ Cross-reference the brand names data to verify legitimacy.
 Determine if the website is a phishing site or a legitimate one, and explain your reasoning. If there is insufficient evidence to make a determination, answer "unknown."
 Keyword Analysis:
 
-Check the webpage content, URL, and scripts for specific keywords provided in the input.
+Check the webpage content, URL, and scripts for  keywords provided in the input.
 Contextually analyze the use of these keywords to reduce false positives.
-Count the number of keyword hits and list the specific keywords found in the analysis.
+Count the number of keyword hits and list the  keywords found in the analysis.
 Output:
 
 Provide a brief description for each of the sub-tasks. Summarize your findings on whether the website is politically related, identifies any political parties or figures, whether it promotes any type of political content or hate speech, whether the site is a phishing attempt, and how many of the specified keywords were found.
